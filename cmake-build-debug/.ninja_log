@@ -1,0 +1,5 @@
+# ninja log v6
+4	230	7551778168041455	CMakeFiles/Pseudocode_Challenges.dir/1.calculate_the_sum_of_an_array.c.obj	ef426bc64f0310ff
+129	472	7551810946522977	Pseudocode_Challenges.exe	5503312036de81a0
+2	271	7551823698103840	build.ninja	fc0df5a832356dc
+4	128	7551810945272622	CMakeFiles/Pseudocode_Challenges.dir/4._Reverse_a_String.c.obj	7bf6085cf53f457f

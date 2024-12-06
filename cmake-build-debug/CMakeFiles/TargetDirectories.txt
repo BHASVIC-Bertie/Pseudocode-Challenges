@@ -1,0 +1,3 @@
+C:/Users/bertie.taylor24/Downloads/GitHub/Pseudocode-Challenges/cmake-build-debug/CMakeFiles/Pseudocode_Challenges.dir
+C:/Users/bertie.taylor24/Downloads/GitHub/Pseudocode-Challenges/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bertie.taylor24/Downloads/GitHub/Pseudocode-Challenges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
